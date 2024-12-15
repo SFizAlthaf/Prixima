@@ -102,7 +102,7 @@ body{
 
 /* the picture section designing */
 .pictureSection{
-    background-image: url("workspace.jpg");
+    background-image: url("assets/workspace.jpg");
     background-size: cover;
     background-position: center;
     height: 750px;
@@ -237,7 +237,7 @@ body{
 
 /* the plain section decoration */
 .plainSection{
-    background-image: url("workspace.jpg");
+    background-image: url("assets/workspace.jpg");
     background-position: bottom;
     background-size: cover;
     color: white;
@@ -376,17 +376,17 @@ body{
 }
 
 .firstImage{
-    background-image: url("menWorkspace.jpg");
+    background-image: url("assets/menWorkspace.jpg");
     flex: 1 1 0%;
 }
 
 .secondImage{
-    background-image: url("menWorkspace1.jpeg");
+    background-image: url("assets/menWorkspace1.jpeg");
     flex: 1 1 0%;
 }
 
 .thirdImage{
-    background-image: url("menWorkspace2.jpg");
+    background-image: url("assets/menWorkspace2.jpg");
     flex: 1 1 0%;
 }
 
@@ -457,7 +457,7 @@ body{
 
 /* the review section designing */
 .reviewSection{
-    background-image: url("workspace.jpg");
+    background-image: url("assets/workspace.jpg");
     background-size: cover;
     background-position: bottom;
     height: 400px;
@@ -548,7 +548,7 @@ body{
 }
 
 .topBlog{
-    background-image: url("femaleWorkspace.jpg");
+    background-image: url("assets/femaleWorkspace.jpg");
     background-position: left;
     width: auto;
     height: 300px;
@@ -586,7 +586,7 @@ body{
 
 /* the final section */
 .finalSec{
-    background-image: url("workspace.jpg");
+    background-image: url("assets/workspace.jpg");
     background-size: cover;
     background-position: bottom;
     height: 300px;
